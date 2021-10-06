@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spandhanajayaram
 - 👀 I’m interested in ...data science 
-- 🌱 I’m currently learning ...basics required for data scien5
+- 🌱 I’m currently pursuing my...Master's degree in mathematics 
 - 💞️ I’m looking to collaborate on ...becoming data scientist 
 - 📫 How to reach me ...
 
